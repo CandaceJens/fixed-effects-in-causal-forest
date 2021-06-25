@@ -1,4 +1,4 @@
-Overview - A function to extract fixed effects for use in a causal forest and example files.
+Overview - A function to extract fixed effects for use in a causal forest and example files.  Subfolder includes replication code for Jens, Page, and Reeder (2021) figures.
 
 There are four (4) files included.
 
